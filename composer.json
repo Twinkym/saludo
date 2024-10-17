@@ -1,0 +1,28 @@
+{
+    "name": "kirgodev/saludo",
+    "description": "Libreria Saludo v1.0.0 en PHP para generar saludos By KirgoDev",
+    "authors": [
+        {
+            "name": "KirgoDev",
+            "email": "ddelapuenteenriquez@gmail.com",
+            "homepage": "https://www.Saludo.com"
+        }
+    ],
+
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.4"    
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Saludo\\Saludo\\": "src/"
+
+        }
+    }
+
+
+
+}
