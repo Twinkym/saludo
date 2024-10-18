@@ -1,10 +1,10 @@
 <?php
 namespace Saludo\Saludo;
 
-Class Saludo{
+Class saludo{
 private $msn;
 
-public function __contruct(){
+public function __construct(){
 $this->setSaludo();
 }
 
